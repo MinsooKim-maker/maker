@@ -1,5 +1,5 @@
 # maker
+Remind Git
 
-git add .
-git commit -m "commit message"
-git push
+# Add content
+New content
